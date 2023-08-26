@@ -1,0 +1,258 @@
+.bas {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    padding: 30px;
+}
+
+.bow {
+    display: flex;
+    justify-content: center;
+}
+
+.gpp {
+    height: 420px;
+    width: 400px;
+    justify-content: center;
+}
+
+.sss {
+    display: flex;
+}
+
+.pgg {
+    width: 250px
+}
+
+.hello {
+    padding-top: 100px !important;
+    padding-left: 40px !important;
+    font-size: smaller;
+}
+
+.cc {
+    font-size: medium;
+}
+
+.hello1 {
+    padding-top: 140px;
+    text-align: center;
+}
+
+.b {
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: left
+}
+
+#img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+#text {
+    font-size: 20px;
+    padding-left: 9px;
+}
+
+.ll {
+    height: 185px;
+    width: 220px;
+    justify-content: center;
+}
+
+#con {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.bi {
+    border-radius: 30px !important;
+    font-size: 22px !important;
+    width: 200px;
+    justify-content: center;
+    margin: 20px !important;
+}
+
+.sst {
+    height: 15px !important;
+    width: 15px !important;
+}
+
+.mi {
+    display: flex;
+    margin-left: 8%;
+}
+
+.ni {
+    font-size: 8px;
+    margin: 0;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.ii {
+    justify-items: left;
+}
+
+.star {
+    height: 50px;
+    width: 50px;
+}
+
+.im {
+    padding: 0px 100px 0px 10px !important;
+}
+
+.blk {
+    color: black !important;
+    font-weight: bold;
+}
+
+.hii {
+    background-color: white;
+    padding: 0% !important;
+    margin: 0% !important;
+}
+
+.bc {
+    padding: 0% !important;
+    border-bottom: solid rgb(164, 159, 159) !important;
+    line-height: normal !important;
+}
+
+.ole {
+    border: solid rgb(148, 143, 143) 1px;
+    display: block;
+}
+
+.las3 {
+    height: 70px;
+    width: 70px;
+}
+
+.gg {
+    text-align: center;
+    padding-top: 210px;
+    font-family: Open;
+    font-size: large;
+    font-weight: bold;
+}
+
+.las2 {
+    height: 70px;
+    width: 150px;
+}
+
+.las1 {
+    height: 70px;
+}
+
+.ann {
+    padding: 120px 0 120px 100px;
+    justify-content: center;
+    text-align: center;
+}
+
+.ggg {
+    justify-content: center !important;
+    margin: 0 !important;
+    padding-left: 20px !important;
+}
+
+.gg1 {
+    justify-content: center !important;
+    margin: 0 !important;
+    padding-left: 20px !important;
+}
+
+.gg2 {
+    justify-content: center !important;
+    margin: 0 !important;
+    padding-left: 130px !important;
+}
+
+.gg3 {
+    justify-content: center !important;
+    margin: 0 !important;
+    padding-right: 40px !important;
+}
+
+.gg4 {
+    justify-content: center !important;
+    margin: 0 !important;
+    padding-left: 20px !important;
+}
+
+.gg5 {
+
+    margin: 0 !important;
+    padding-left: 20px !important;
+}
+
+.card1 {
+    border-radius: 25px !important;
+    box-shadow: 10px 10px 10px 1px rgb(131, 127, 123) !important;
+    font-size: small;
+    background-color: #F8FAFC !important;
+}
+
+#parent {
+    position: relative !important;
+}
+
+.bbtcard {
+    position: absolute !important;
+    top: 100px;
+    right: 113px;
+}
+
+#ing {
+    position: absolute !important;
+    top: 20px;
+}
+
+#carcolo {
+    background-color: white;
+}
+
+.ri {
+    font-size: 12px !important;
+    padding: 0px !important;
+    padding-left: 9px !important;
+}
+
+.tfo {
+    padding: 20px;
+}
+
+.by {
+    padding-bottom: 0px !important;
+}
+
+.ck {
+    background-color: #FFFFFF !important;
+}
+
+.kk {
+    border-radius: 25px !important;
+    box-shadow: 10px 10px 10px 1px rgb(131, 127, 123) !important;
+    background-color: #FFFFFF !important;
+}
+
+#cirButton{
+ width: 50px;
+ height: 50px;
+ background-size: 5px 5px;
+ background-color: #707070;
+ color: #ffff;
+ clip-path: circle();
+ position: relative;
+ bottom: 85px;
+ left:915px ;
+}
